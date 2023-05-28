@@ -1,4 +1,4 @@
-Mythical Lands 
+# Mythical Lands 
 Mythical Lands is a large mod with custom lore, items and bosses that is planned to introduce a large number of items with different rareities and abilties based of RPG/Fantasy culture,
 
 Features
