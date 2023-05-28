@@ -1,32 +1,32 @@
 # Mythical Lands 
 Mythical Lands is a large mod with custom lore, items and bosses that is planned to introduce a large number of items with different rareities and abilties based of RPG/Fantasy culture,
 
-Features
+## Features
 
 
-Requirements
+## Requirements
 
-Step-by-step instructions on how to install the mod:
+### Step-by-step instructions on how to install the mod:
 
-Provide any necessary prerequisites.
+### Provide any necessary prerequisites.
 
-Contributing
+## Contributing
 
-License
+## License
 
-Credits
+## Credits
 
-Support
+## Support
 
-Roadmap
+## Roadmap
 
-Changelog
+## Changelog
 
-Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-Known Issues
+## Known Issues
 
-Related Projects
+### Related Projects
 
-Authors
+## Authors
 Sir Satan/Kiefy #4440
