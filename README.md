@@ -34,9 +34,13 @@ We welcome contributions from the community to help improve and expand the Mythi
 To install the Mythical Lands mod, please follow these steps:
 
 Ensure you have the latest version of Miner Forged installed.
+
 Download the mod files from the GitHub repository.
+
 Extract the downloaded files and place them into the total miner mods folder (documents >>> My games>>> Total Miner >>> Mods).
+
 Launch Miner Forged and select the Mythical Lands mod from the available mods in the mod menu when in the world settings menu.
+
 Enjoy the enhanced gameplay experience offered by Mythical Lands!
 
 # Feedback and Support
