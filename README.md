@@ -53,7 +53,7 @@ Mythical Lands mod is released under a Creative Commons Attribution-ShareAlike 4
 
 Special thanks to the following individuals for their significant contributions to the Mythical Lands mod:
 
-## Main Developer and Artist : Kiefy_4_V
+#### Main Developer and Artist : Kiefy_4_V
 
 # Disclaimer
 Mythical Lands mod is a third-party modification for Miner Forged and is not affiliated with or endorsed by the original game developers. Use the mod at your own risk.
