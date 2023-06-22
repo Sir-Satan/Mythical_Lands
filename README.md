@@ -46,7 +46,7 @@ Enjoy the enhanced gameplay experience offered by Mythical Lands!
 # Feedback and Support
 If you encounter any issues, have suggestions, or want to provide feedback on the Mythical Lands mod, please submit an issue on the GitHub repository.
 
-For general support and discussions, you can join our community Discord server at discord-server-link.
+For general support and discussions, you can join the total miner community Discord server at [https://discord.gg/totalminer].
 
 ## License
 Mythical Lands mod is released under a Creative Commons Attribution-ShareAlike 4.0 International License.
