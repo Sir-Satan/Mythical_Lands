@@ -1,14 +1,9 @@
 # Mythical Lands Mod
-Mythical Lands is a total miner forged mod aimed at providing a complete overhaul and expansion to the game. It introduces a plethora of new content including metals, plants, cloths, gemstone types, rare monster drops, bosses, player resources, food items, and legendary and mythical items. The mod is set in a fantasy RPG setting, adding depth and immersion to the gameplay experience.
+Mythical Lands is an expansive Total miner mod designed to enhance and transform the gameplay experience. This mod introduces an array of fresh content, including a variety of new materials and rare drops obtained from formidable bosses and creatures. Set within a captivating fantasy RPG setting, Mythical Lands enriches the game, imbuing it with greater depth and immersion, allowing the player to explore a whole new world of content
 
 # Features
-### 40 New Metals: Discover a wide range of metals with unique magical properties, opening up new crafting possibilities and enhancing gameplay dynamics.
-
-### 7 New Plants: Explore the world of Mythical Lands and encounter exotic plants that offer various benefits and uses.
-
-### 3 New Cloths: Equip yourself with exclusive cloth materials that provide enhanced protection and stylish appearance.
-
-### 10 Different Gemstone Types: Collect different gemstones with diverse attributes and utilize them for various purposes.
+### over 60 New Materials: 
+Discover a wide range of 40 different metals with unique magical properties, new exotic plants and gemstones that you can find through bosses or around the world as you explore!
 
 Rare Monster Drops: Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
 
@@ -18,7 +13,7 @@ Rare Monster Drops: Engage in battles with formidable creatures and obtain valua
 
 New Food Items: Savor a variety of delectable food items introduced in Mythical Lands, providing nourishment and unique effects.
 
-Over 70 Legendary and Mythical Items: Discover legendary weapons, armor, and artifacts that possess extraordinary attributes and capabilities.
+Over 70 Legendary and Mythical Items: Discover legendary armor, armaments, and artifacts that possess extraordinary attributes and capabilities.
 
 # Planned Features
 While the current version of the mod may not include certain elements, the development team has an extensive roadmap for future updates, which includes:
@@ -61,3 +56,4 @@ Special thanks to the following individuals for their significant contributions 
 
 # Disclaimer
 Mythical Lands mod is a third-party modification for Miner Forged and is not affiliated with or endorsed by the original game developers. Use the mod at your own risk.
+Total miner on steam! [https://store.steampowered.com/app/347600/Total_Miner/]
