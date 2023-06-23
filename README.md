@@ -1,4 +1,4 @@
-# rgb(10,100,180)Mythical Lands Mod
+# Mythical Lands Mod
 Mythical Lands is an expansive Total miner mod designed to enhance and transform the gameplay experience. This mod introduces an array of fresh content, including a variety of new materials and rare drops obtained from formidable bosses and creatures. Set within a captivating fantasy RPG setting, Mythical Lands enriches the game, imbuing it with greater depth and immersion, allowing the player to explore a whole new world of content
 
 # Features
