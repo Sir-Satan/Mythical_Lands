@@ -5,7 +5,8 @@ Mythical Lands is an expansive Total miner mod designed to enhance and transform
 ### over 60 New Materials: 
 Discover a wide range of 40 different metals with unique magical properties, new exotic plants and gemstones that you can find through bosses or around the world as you explore!
 
-### Rare Monster Drops: Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
+### Rare Monster Drops: 
+Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
 
 ### 34 New Bosses:
 Challenge powerful bosses as you progress through the game, with even more bosses planned for future updates.
