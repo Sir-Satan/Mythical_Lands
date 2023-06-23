@@ -17,7 +17,7 @@ Harness the power of mana, divine energy, demonic energy, and aura to unlock new
 Savor a variety of delectable food items introduced in Mythical Lands, providing nourishment and unique effects.
 
 ### Over 70  Mythical Items: 
-Discover legendary armor, armaments, and artifacts that possess extraordinary attributes and capabilities.
+Discover Mythical armor, armaments, and artifacts that possess extraordinary attributes and capabilities.
 
 # Planned Features
 While the current version of the mod may not include certain elements, the development team has an extensive roadmap for future updates, which includes:
