@@ -23,6 +23,17 @@ Discover Mythical armor, armaments, and artifacts that possess extraordinary att
 # Planned Features
 While the current version of the mod may not include certain elements, the development team has an extensive roadmap for future updates, which includes:
 
+### Current TO DO LIST
+- [] Add all materials into the mod
+- [] Create new mobs
+- [] Create the rest of the bosses
+- [] Develop new biome concepts
+- [] Expand and create the bosses mechanics
+- [] Create a "skill Menu" to view additional buffs and perks used in the mod
+- [] Create and impliment a custom, dynamic magic system based on the new player resources
+- [] Make the special features of relics functional
+
+
 Additional mobs and creatures to further enrich the game world.
 Implementation of boss fights to provide thrilling encounters and rewarding gameplay.
 Creation of new armors and tools crafted from the newly introduced ores and materials.
