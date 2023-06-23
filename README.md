@@ -5,15 +5,19 @@ Mythical Lands is an expansive Total miner mod designed to enhance and transform
 ### over 60 New Materials: 
 Discover a wide range of 40 different metals with unique magical properties, new exotic plants and gemstones that you can find through bosses or around the world as you explore!
 
-Rare Monster Drops: Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
+### Rare Monster Drops: Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
 
-34 New Bosses: Challenge powerful bosses as you progress through the game, with even more bosses planned for future updates.
+### 34 New Bosses:
+Challenge powerful bosses as you progress through the game, with even more bosses planned for future updates.
 
-4 New Player Resources: Harness the power of mana, divine energy, demonic energy, and aura to unlock new abilities and augment your gameplay.
+### 4 New Player Resources:
+Harness the power of mana, divine energy, demonic energy, and aura to unlock new abilities and augment your gameplay.
 
-New Food Items: Savor a variety of delectable food items introduced in Mythical Lands, providing nourishment and unique effects.
+### New Food Items: 
+Savor a variety of delectable food items introduced in Mythical Lands, providing nourishment and unique effects.
 
-Over 70 Legendary and Mythical Items: Discover legendary armor, armaments, and artifacts that possess extraordinary attributes and capabilities.
+### Over 70  Mythical Items: 
+Discover legendary armor, armaments, and artifacts that possess extraordinary attributes and capabilities.
 
 # Planned Features
 While the current version of the mod may not include certain elements, the development team has an extensive roadmap for future updates, which includes:
