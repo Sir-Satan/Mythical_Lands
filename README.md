@@ -2,13 +2,13 @@
 Mythical Lands is a total miner forged mod aimed at providing a complete overhaul and expansion to the game. It introduces a plethora of new content including metals, plants, cloths, gemstone types, rare monster drops, bosses, player resources, food items, and legendary and mythical items. The mod is set in a fantasy RPG setting, adding depth and immersion to the gameplay experience.
 
 # Features
-40 New Metals: Discover a wide range of metals with unique magical properties, opening up new crafting possibilities and enhancing gameplay dynamics.
+### 40 New Metals: Discover a wide range of metals with unique magical properties, opening up new crafting possibilities and enhancing gameplay dynamics.
 
-7 New Plants: Explore the world of Mythical Lands and encounter exotic plants that offer various benefits and uses.
+### 7 New Plants: Explore the world of Mythical Lands and encounter exotic plants that offer various benefits and uses.
 
-3 New Cloths: Equip yourself with exclusive cloth materials that provide enhanced protection and stylish appearance.
+### 3 New Cloths: Equip yourself with exclusive cloth materials that provide enhanced protection and stylish appearance.
 
-10 Different Gemstone Types: Collect different gemstones with diverse attributes and utilize them for various purposes.
+### 10 Different Gemstone Types: Collect different gemstones with diverse attributes and utilize them for various purposes.
 
 Rare Monster Drops: Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
 
@@ -33,15 +33,15 @@ We welcome contributions from the community to help improve and expand the Mythi
 # Installation
 To install the Mythical Lands mod, please follow these steps:
 
-Ensure you have the latest version of Miner Forged installed.
+1: Ensure you have the latest version of Miner Forged installed.
 
-Download the mod files from the GitHub repository.
+2: Download the mod files from the GitHub repository.
 
-Extract the downloaded files and place them into the total miner mods folder (documents >>> My games>>> Total Miner >>> Mods).
+3: Extract the downloaded files and place them into the total miner mods folder (documents >>> My games>>> Total Miner >>> Mods).
 
-Launch Miner Forged and select the Mythical Lands mod from the available mods in the mod menu when in the world settings menu.
+4: Launch Miner Forged and select the Mythical Lands mod from the available mods in the mod menu when in the world settings menu.
 
-Enjoy the enhanced gameplay experience offered by Mythical Lands!
+5: Enjoy the enhanced gameplay experience offered by Mythical Lands!(if you don't enjoy, your game will break)
 
 # Feedback and Support
 If you encounter any issues, have suggestions, or want to provide feedback on the Mythical Lands mod, please submit an issue on the GitHub repository.
