@@ -24,14 +24,16 @@ Discover Mythical armor, armaments, and artifacts that possess extraordinary att
 While the current version of the mod may not include certain elements, the development team has an extensive roadmap for future updates, which includes:
 
 ### Current TO DO LIST
-- [] Add all materials into the mod
-- [] Create new mobs
-- [] Create the rest of the bosses
-- [] Develop new biome concepts
-- [] Expand and create the bosses mechanics
-- [] Create a "skill Menu" to view additional buffs and perks used in the mod
-- [] Create and impliment a custom, dynamic magic system based on the new player resources
-- [] Make the special features of relics functional
+- [45%] Add all materials into the mod
+- [0%] Create crafting recipes for each item 
+- [38%] Create new mobs
+- [0%] Create naturally spawning arenas
+- [0%] Create the rest of the bosses
+- [1%] Develop new biome concepts
+- [0%] Expand and create the bosses mechanics
+- [0%] Create a "skill Menu" to view additional buffs and perks used in the mod
+- [0%] Create and impliment a custom, dynamic magic system based on the new player resources
+- [0%] Make the special features of relics functional
 
 
 Additional mobs and creatures to further enrich the game world.
