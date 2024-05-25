@@ -6,13 +6,13 @@ Mythical Lands is an expansive Total miner mod designed to enhance and transform
 Discover a wide range of 40 different metals with unique magical properties, new exotic plants and gemstones that you can find through bosses or around the world as you explore!
 
 ### Rare Monster Drops: 
-Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, scales, and more.
+Engage in battles with formidable creatures and obtain valuable drops such as dragon blood, Crystal hearts and much more!.
 
 ### 34 New Bosses:
 Challenge powerful bosses as you progress through the game, with even more bosses planned for future updates.
 
 ### 4 New Player Resources:
-Harness the power of mana, divine energy, demonic energy, and aura to unlock new abilities and augment your gameplay.
+Harness the power of mana, divine energy, demonic energy and Forbidden Knowldge to unlock new abilities and augment your gameplay.
 
 ### New Food Items: 
 Savor a variety of delectable food items introduced in Mythical Lands, providing nourishment and unique effects.
@@ -24,12 +24,12 @@ Discover Mythical armor, armaments, and artifacts that possess extraordinary att
 While the current version of the mod may not include certain elements, the development team has an extensive roadmap for future updates, which includes:
 
 ### Current TO DO LIST
-- [85%] Add all materials into the mod
+- [110%] Add all materials into the mod (I added even more because i can't help myself)
 - [0%] Create crafting recipes for each item 
 - [38%] Create new mobs
 - [0%] Create naturally spawning arenas
 - [0%] Create the rest of the bosses
-- [7%] Develop new biome concepts
+- [72%] Develop new biome concepts
 - [0%] Expand and create the bosses mechanics
 - [0%] Create a "skill Menu" to view additional buffs and perks used in the mod
 - [0%] Create and impliment a custom, dynamic magic system based on the new player resources
@@ -73,5 +73,5 @@ Special thanks to the following individuals for their significant contributions 
 #### Main Developer and Artist : Kiefy_4_V
 
 # Disclaimer
-Mythical Lands mod is a third-party modification for Miner Forged and is not affiliated with or endorsed by the original game developers. Use the mod at your own risk.
+Mythical Lands mod is a third-party modification for Total Miner Forged and is not affiliated with or endorsed by the original game developers. Use the mod at your own risk.
 Total miner on steam! [https://store.steampowered.com/app/347600/Total_Miner/]
