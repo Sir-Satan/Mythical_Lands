@@ -25,20 +25,15 @@ While the current version of the mod may not include certain elements, the devel
 
 ### Current TO DO LIST
 - [110%] Add all materials into the mod (I added even more because i can't help myself)
-- [0%] Create crafting recipes for each item 
+- [40%] Create crafting recipes for each item 
 - [38%] Create new mobs
 - [0%] Create naturally spawning arenas
-- [0%] Create the rest of the bosses
-- [72%] Develop new biome concepts
+- [45%] Create the rest of the bosses
+- [100%] Develop new biome concepts
 - [0%] Expand and create the bosses mechanics
 - [0%] Create a "skill Menu" to view additional buffs and perks used in the mod
 - [0%] Create and impliment a custom, dynamic magic system based on the new player resources
 - [0%] Make the special features of relics functional
-
-
-Additional mobs and creatures to further enrich the game world.
-Implementation of boss fights to provide thrilling encounters and rewarding gameplay.
-Creation of new armors and tools crafted from the newly introduced ores and materials.
 
 # Contribution
 We welcome contributions from the community to help improve and expand the Mythical Lands mod. If you're interested in contributing, please contact me on discord "Kiefy_4_v"
