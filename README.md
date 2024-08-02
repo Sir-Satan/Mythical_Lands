@@ -32,8 +32,9 @@ While the current version of the mod may not include certain elements, the devel
 - [100%] Develop new biome concepts
 - [0%] Expand and create the bosses mechanics
 - [0%] Create a "skill Menu" to view additional buffs and perks used in the mod
-- [0%] Create and impliment a custom, dynamic magic system based on the new player resources
+- [0%] Create and impliment a custom magic system based on the new player resources
 - [0%] Make the special features of relics functional
+- [0%] playtest
 
 # Contribution
 We welcome contributions from the community to help improve and expand the Mythical Lands mod. If you're interested in contributing, please contact me on discord "Kiefy_4_v"
